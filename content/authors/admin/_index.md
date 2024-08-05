@@ -60,7 +60,7 @@ education:
     date_start: 2017-07-01
     date_end: 2021-10-07
     summary: |
-      Trabalho intitulado _A Mecânica Quântica no Espaço de Fase e o Potencial de Yukawa_. Orientada por Prof. Dr. José David Mangueira Vianna (http://lattes.cnpq.br/9805728011856880). 
+      Trabalho intitulado _A Mecânica Quântica no Espaço de Fase e o Potencial de Yukawa_. Orientada por Prof. Dr. José David Mangueira Vianna (https://lattes.cnpq.br/9805728011856880). 
     #Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Ler dissertação'
