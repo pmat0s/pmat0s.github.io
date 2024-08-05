@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV_LATTES_RESUMIDO.pdf
     design:
       css_class: dark
       background:
@@ -99,5 +99,5 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [0, 10, 0, 10]
 ---
