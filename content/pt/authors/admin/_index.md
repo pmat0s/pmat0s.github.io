@@ -145,11 +145,11 @@ skills:
       - name: Xadrez
         description: ''
         percent: 40
-        icon: person-simple-walk
+        icon: user
       - name: Jiu-Jitsu
         description: ''
         percent: 15
-        icon: custom/kimono
+        icon: face-smile
       - name: Programação
         description: ''
         percent: 80
@@ -168,23 +168,25 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Orientação de projeto laureado em 1º lugar (PIBIC), JINCE/JID 2022.
+    date: '2022-01-01'
+    awarder: Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE).
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      Com o projeto de pesquisa intitulado _Elaboração de um kit didático de baixo custo para ensino de oscilações amortecidas utilizando o arduíno_, desenvolvido pela aluna Maria Gabriela Pereira da Silva (Licenciatura em Física do Campus Salgueiro) e financiado pela CNPq.
+  - title: Professor homenageado
+    date: '2019-01-01'
+    awarder: Colégio Estadual de Aplicação Anísio Teixeira
+  - title: Medalha de Ouro (Premiação estadual das Escolas Municipais e Estaduais).
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2012-06-01'
+    awarder: Olimpíada Brasileira de Física (OBF)
+  - title: Menção Honrosa
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2009-01-01'
+    awarder: Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
+    #icon: coursera
+    #summary: |
+    #  I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 #   - title: 'Object-Oriented Programming in R'
 #     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 #     certificate_url: https://www.datacamp.com
