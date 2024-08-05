@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+title: Encontro de Física Norte Nordeste 2024
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: XXXVIII EFNNE - 2024
+event_url: https://www1.fisica.org.br/~efnne/xxxviii/index.php/pt/
 
 location: Hugo Blox Builder HQ
 address:
@@ -30,7 +30,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

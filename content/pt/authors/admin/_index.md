@@ -140,20 +140,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Projeto laureado em 1º lugar (PIBIC).
+  - title: Projeto Laureado (1º lugar - PIBIC)
     date: '2022-01-01'
-    awarder: JINCE/JID 2022 (IFSertãoPE).
+    awarder: JINCE/JID 2022 (IFSertãoPE)
     summary: |
       Projeto de pesquisa intitulado _Elaboração de um kit didático de baixo custo para ensino de oscilações amortecidas utilizando o arduíno_, desenvolvido pela aluna Maria Gabriela Pereira da Silva (Licenciatura em Física do Campus Salgueiro) e financiado pela CNPq.
   - title: Professor homenageado
     date: '2019-01-01'
     awarder: Colégio Estadual de Aplicação Anísio Teixeira
-  - title: Medalha de Ouro (Premiação estadual das Escolas Municipais e Estaduais).
+  - title: Medalha de Ouro (Premiação estadual das Escolas Municipais e Estaduais)
     date: '2012-06-01'
     awarder: Olimpíada Brasileira de Física (OBF)
   - title: Menção Honrosa
     date: '2009-01-01'
-    awarder: Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
+    awarder: Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
 ---
 
 ## Sobre mim
