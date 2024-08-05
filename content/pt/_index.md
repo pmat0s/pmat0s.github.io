@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/CV_LATTES_RESUMIDO.pdf
+        url: ../uploads/CV_LATTES_RESUMIDO.pdf
     design:
       css_class: dark
       background:
