@@ -41,7 +41,7 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['0', '15px', '0', '15px']
+        padding: ['15px', '15px', '15px', '15px']
   - block: collection
     id: papers
     content:
@@ -53,8 +53,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-      spacing:
-        padding: ['0', '15px', '0', '15px']
   - block: collection
     content:
       title: Trabalhos recentes
@@ -65,8 +63,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      spacing:
-        padding: ['0', '15px', '0', '15px']
   - block: collection
     id: talks
     content:
