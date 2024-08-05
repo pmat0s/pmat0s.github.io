@@ -39,7 +39,7 @@
   translation: 'Figura %d:'
 
 - id: edit_page
-  translation: Edit this page
+  translation: Editar esta página
 
 # Themes
 
@@ -262,4 +262,4 @@
 # Published with
 
 - id: published_with
-  translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+  translation: Published with {hugoblox}.
