@@ -40,6 +40,8 @@ sections:
         Entre em contato para colaborar 😃.
     design:
       columns: '1'
+      spacing:
+        padding: ['0', '15px', '0', '15px']
   - block: collection
     id: papers
     content:
@@ -51,6 +53,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+      spacing:
+        padding: ['0', '15px', '0', '15px']
   - block: collection
     content:
       title: Trabalhos recentes
@@ -61,6 +65,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+        padding: ['0', '15px', '0', '15px']
   - block: collection
     id: talks
     content:
@@ -99,5 +105,5 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 10, 0, 10]
+        padding: [0, 0, 0, 0]
 ---
