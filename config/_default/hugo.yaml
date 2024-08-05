@@ -14,7 +14,7 @@ baseURL: 'https://pmat0s.github.io/'
 
 defaultContentLanguage: pt
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
