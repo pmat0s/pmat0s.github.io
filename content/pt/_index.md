@@ -32,14 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Um pouco mais sobre mim'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Pedro Davi Matos Pereira, bacharel (2017), licenciado (2018) e mestre (2021) em Física pela Universidade Federal da Bahia (UFBA), com ênfase em Física Atômica e Molecular. Tem experiência na área de educação, em escolas de ensino ensino médio, profissionalizante, bem como na formação de professores. Realiza pesquisas em Física Atômica e Molecular e Física Matemática, com ênfase em processo de espalhamento de elétrons por Moléculas, Mecânica Quântica no Espaço de Fase, Função de Wigner e Mecânica Quântica Simplética. Também desenvolve pesquisas em instrumentação para o ensino de física. É membro do Grupo de Pesquisa em Ensino de Ciências - Salgueiro. Atualmente é professor de Física no quadro efetivo do Ensino Básico, Técnico e Tecnológico (EBTT) do Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE) - Campus Salgueiro/PE. Possui interesse em ensino de física, instrumentação didática, arduíno, programação e cultura maker. 
         
-        Please reach out to collaborate 😃
+        Entre em contato para colaborar 😃.
     design:
       columns: '1'
   - block: collection
@@ -55,7 +53,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Publicações recentes
+      title: Trabalhos recentes
       text: ""
       filters:
         folders:
