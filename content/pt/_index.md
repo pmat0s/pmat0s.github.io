@@ -62,7 +62,7 @@ sections:
     design:
       view: citation
   - block: collection
-    id: Comunicações
+    id: talks
     content:
       title: Comunicações recentes e futuras
       filters:

@@ -9,19 +9,19 @@ main:
     weight: 10
   - name: Trabalhos
     url: /#papers
-    weight: 11
+    weight: 20
   - name: Comunicações
     url: /#talks
-    weight: 12
+    weight: 30
   - name: Novidades
     url: /#news
-    weight: 13
+    weight: 40
   - name: Experiência
     url: experience/
-    weight: 20
+    weight: 11
   - name: Projetos
     url: projects/
-    weight: 30
+    weight: 60
   - name: Ensino
     url: teaching/
-    weight: 40
+    weight: 70
