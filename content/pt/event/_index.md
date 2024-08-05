@@ -1,5 +1,5 @@
 ---
-title: Recentes e futuras comunicações
+title: Comunicações recentes e futuras 
 cms_exclude: true
 #url: talk
 

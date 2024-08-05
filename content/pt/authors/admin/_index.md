@@ -33,8 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:pedromatosprof@gmail.com'
     label: E-mail Me
-  #- icon: brands/x
-  #  url: https://twitter.com/GetResearchDev
   - icon: academicons/lattes
     url: http://lattes.cnpq.br/3944546280755729
   - icon: brands/github
@@ -61,43 +59,17 @@ education:
     date_end: 2021-10-07
     summary: |
       Trabalho intitulado _A Mecânica Quântica no Espaço de Fase e o Potencial de Yukawa_. Orientada pelo Prof. Dr. José David Mangueira Vianna e pela Profa. Dra. Maria das Graças Reis Martins.
-    #Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Ler dissertação'
       url: 'https://ppgfis.ufba.br/sites/ppgfis.ufba.br/files/pereira2021.pdf'
-  #- area: MEng Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  date_start: 2016-01-01
-  #  date_end: 2020-12-31
-  #  summary: |
-  #    GPA: 3.8/4.0
-  #
-  #    Courses included:
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Licenciatura em Física
     institution: Universidade Federal da Bahia
     date_start: 2017-05-31
     date_end: 2018-12-31
-    #summary: |
-    # GPA: 3.4/4.0
-    #  
-    #  Courses included:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Bacharelado em Física
     institution: Universidade Federal da Bahia
     date_start: 2014-01-01
     date_end: 2017-05-31
-    #summary: |
-    #  GPA: 3.4/4.0
-    #  
-    #  Courses included:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Professor de Física
     company_name: Instituto Federal do Sertão Pernambucano
@@ -134,10 +106,10 @@ skills:
         description: ''
         percent: 100
         icon: devicon/arduino
-      - name: SQL
+      - name: LaTeX
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/latex
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -168,33 +140,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Orientação de projeto laureado em 1º lugar (PIBIC), JINCE/JID 2022.
+  - title: Projeto laureado em 1º lugar (PIBIC).
     date: '2022-01-01'
-    awarder: Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE).
+    awarder: JINCE/JID 2022 (IFSertãoPE).
     summary: |
-      Com o projeto de pesquisa intitulado _Elaboração de um kit didático de baixo custo para ensino de oscilações amortecidas utilizando o arduíno_, desenvolvido pela aluna Maria Gabriela Pereira da Silva (Licenciatura em Física do Campus Salgueiro) e financiado pela CNPq.
+      Projeto de pesquisa intitulado _Elaboração de um kit didático de baixo custo para ensino de oscilações amortecidas utilizando o arduíno_, desenvolvido pela aluna Maria Gabriela Pereira da Silva (Licenciatura em Física do Campus Salgueiro) e financiado pela CNPq.
   - title: Professor homenageado
     date: '2019-01-01'
     awarder: Colégio Estadual de Aplicação Anísio Teixeira
   - title: Medalha de Ouro (Premiação estadual das Escolas Municipais e Estaduais).
-    #url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2012-06-01'
     awarder: Olimpíada Brasileira de Física (OBF)
   - title: Menção Honrosa
-    #url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2009-01-01'
     awarder: Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP).
-    #icon: coursera
-    #summary: |
-    #  I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-#   - title: 'Object-Oriented Programming in R'
-#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#     certificate_url: https://www.datacamp.com
-#     date: '2023-01-21'
-#     awarder: datacamp
-#     icon: datacamp
-#     summary: |
-#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## Sobre mim
