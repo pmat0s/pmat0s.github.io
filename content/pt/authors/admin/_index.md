@@ -6,8 +6,8 @@ title: Pedro Matos
 #name_pronunciation: Pedro Matos
 
 # Full name (for SEO)
-first_name: Pedro
-last_name: Matos
+first_name: Pedro Davi
+last_name: Matos Pereira
 
 # Status emoji
 status:
