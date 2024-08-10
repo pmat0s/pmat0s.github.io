@@ -1,6 +1,6 @@
 ---
 title: Blog
-view: compact
+view: landing
 
 design:
   # Default section spacing
@@ -19,11 +19,11 @@ sections:
         text: 'Costumo escrever coisas a sobre física e tecnologia, mas também escrevo algumas coisas aleatórias.'
         filters:
             folders:
-            - post
+              - post
     design:
         view: article-grid
         fill_image: false
-        columns: 1
+        columns: 3
   - block: collection
     id: news
     content:
@@ -36,13 +36,13 @@ sections:
         count: 5
         # Filter on criteria
         filters:
-            author: ""
-            category: ""
-            tag: ""
-            exclude_featured: false
-            exclude_future: false
-            exclude_past: false
-            publication_type: ""
+          author: ""
+          category: ""
+          tag: ""
+          exclude_featured: false
+          exclude_future: false
+          exclude_past: false
+          publication_type: ""
         # Choose how many pages you would like to offset by
         offset: 0
         # Page order: descending (desc) or ascending (asc) date.
