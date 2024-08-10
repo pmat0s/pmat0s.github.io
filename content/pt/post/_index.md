@@ -21,9 +21,9 @@ sections:
                 folders:
                     - post
         design:
-        view: article-grid
-        fill_image: false
-        columns: 1
+            view: article-grid
+            fill_image: false
+            columns: 1
     - block: collection
         id: news
         content:
