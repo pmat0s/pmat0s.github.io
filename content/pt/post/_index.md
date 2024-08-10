@@ -19,7 +19,7 @@ sections:
         text: 'Costumo escrever coisas a sobre física e tecnologia, mas também escrevo algumas coisas aleatórias.'
         filters:
             folders:
-                - post
+            - post
     design:
         view: article-grid
         fill_image: false
