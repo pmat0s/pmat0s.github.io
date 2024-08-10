@@ -1,6 +1,6 @@
 ---
 title: Blog
-view: landing
+view: compact
 
 design:
   # Default section spacing
