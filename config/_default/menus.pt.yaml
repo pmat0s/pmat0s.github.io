@@ -7,19 +7,19 @@ main:
   - name: Sobre
     url: /
     weight: 10
+  - name: Experiência
+    url: experience/
+    weight: 20
   - name: Publicações
     #url: /#papers
     url: publication/
-    weight: 20
+    weight: 30
   - name: Comunicações
     url: /#talks
-    weight: 30
-  - name: Novidades
-    url: /#news
     weight: 40
-  - name: Experiência
-    url: experience/
-    weight: 11
+  - name: Blog
+    url: post/
+    weight: 50
   - name: Projetos
     url: projects/
     weight: 60
