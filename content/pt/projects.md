@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projetos selecionados
-      text: Aqui estão alguns dos projetos que trabalhei ao longo dos anos.
+      text: Aqui estão alguns dos projetos que trabalhei ao longo do tempo.
       filters:
         folders:
           - project
