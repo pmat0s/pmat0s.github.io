@@ -24,7 +24,7 @@ sections:
         view: article-grid
         fill_image: false
         columns: 1
-    - block: collection
+  - block: collection
     id: news
     content:
         title: Postagens
@@ -53,7 +53,7 @@ sections:
         # Reduce spacing
         spacing:
             padding: [0, 0, 0, 0]
-    - block: tag_cloud
+  - block: tag_cloud
         content:
         title: My title
         subtitle: My subtitle
