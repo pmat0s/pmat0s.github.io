@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Construção de um kit experimental com arduino para ensino de oscilações em tempo real"
 authors:
 - admin
-- Robert Ford
+- Marcelo Souza da Silva 
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "10.1590/1806-9126-RBEF-2021-0186"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-08-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +18,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Revista Brasileira de Ensino de Física"
+publication_short: "*RBEF*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: O estudo das oscilações pode se configurar como uma rica oportunidade para o desenvolvimento de atividades experimentais. Entretanto, devido a uma série de dificuldades instrumentais, muitos professores optam por trabalhar apenas com um cronometro para obtenção da frequência média das oscilações. A aquisição dos dados de posição em função do tempo está disponível, em geral, para quem tem acesso a kits experimentais caros. Neste artigo propomos a construção e utilização de um kit experimental para estudo de oscilações utilizando arduino. Por meio de um sensor ultrassônico HC-SR04, pode-se construir gráficos de posição (velocidade e aceleração) em tempo real, permitindo a visualização do comportamento senoidal apresentado pela teoria, e possibilitando maior compreensão do fenômeno além da determinação de grandezas físicas envolvidas. O kit inclui um software desenvolvido em C+⁣+, denominado PMOscillator, responsável pela aquisição, processamento, plotagem em tempo real e análise dos dados.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Arduino
+- Oscilações
+- Kit didático
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://doi.org/10.1590/1806-9126-RBEF-2021-0186
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -45,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: Author'
   focal_point: ""
   preview_only: false
 
@@ -64,7 +66,7 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -72,4 +74,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
