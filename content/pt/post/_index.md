@@ -3,4 +3,4 @@ title: Blog
 view: article-grid
 ---
 
-testeeeee
+Eu costumo escrever algumas coisas a sobre física e tecnologia, mas também escrevo umas coisas aleatórias.
