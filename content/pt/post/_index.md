@@ -2,28 +2,28 @@
 title: Blog
 view: landing
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+# cascade:
+#   - _target:
+#       kind: page
+#     params:
+#       show_breadcrumb: true
 
 # design:
 #   # Default section spacing
 #   spacing: "6rem"
 
-sections:
-- block: collection
-  id: teaching
-  content:
-    title: Ensino
-    filters:
-      folders:
-        - post
-  design:
-    view: article-grid
-    columns: 2
----
+# sections:
+# - block: collection
+#   id: teaching
+#   content:
+#     title: Ensino
+#     filters:
+#       folders:
+#         - post
+#   design:
+#     view: article-grid
+#     columns: 2
+<!-- --- -->
 # Page sections
 sections:
   # - block: markdown
@@ -32,6 +32,7 @@ sections:
   #       subtitle: 'My subtitle'
   #       text: 'Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!'
   - block: collection
+    id: section-1
     content:
         title: 'Postagens'
         text: 'Costumo escrever coisas a sobre física e tecnologia, mas também escrevo algumas coisas aleatórias.'
