@@ -17,11 +17,11 @@ main:
   - name: Comunicações
     url: /#talks
     weight: 40
-  - name: Blog
-    url: post/
-    weight: 50
   - name: Projetos
     url: projects/
+    weight: 50
+  - name: Blog
+    url: post/
     weight: 60
   # - name: Ensino
   #   url: teaching/
