@@ -3,8 +3,8 @@ title: PMOscillator
 date: 2021-01-01
 external_link: https://github.com/pmat0s/pmoscillator
 tags:
-  - C++
   - Software
+  - C++
   - Gráficos
 ---
 
