@@ -23,6 +23,6 @@ main:
   - name: Projetos
     url: projects/
     weight: 60
-  - name: Ensino
-    url: teaching/
-    weight: 70
+  # - name: Ensino
+  #   url: teaching/
+  #   weight: 70
