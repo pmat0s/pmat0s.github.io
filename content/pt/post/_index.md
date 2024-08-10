@@ -23,7 +23,6 @@ view: landing
 #   design:
 #     view: article-grid
 #     columns: 2
-<!-- --- -->
 # Page sections
 sections:
   # - block: markdown
