@@ -7,8 +7,9 @@ main:
   - name: Sobre
     url: /
     weight: 10
-  - name: Trabalhos
-    url: /#papers
+  - name: Publicações
+    #url: /#papers
+    url: publication/
     weight: 20
   - name: Comunicações
     url: /#talks
