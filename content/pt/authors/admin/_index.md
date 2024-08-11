@@ -148,9 +148,13 @@ awards:
   - title: Professor homenageado
     date: '2019-01-01'
     awarder: Colégio Estadual de Aplicação Anísio Teixeira
-  - title: Medalha de Ouro (Premiação estadual das Escolas Municipais e Estaduais)
+    summary: |
+      Homenagem em reconhecimento à dedicação e trabalho, e por criar possibilidades para a produção e construção do conhecimento; por acreditar, com a arte de ensinar, na mudança de pessoas que transformarão o mundo.
+  - title: Medalha de Ouro 
     date: '2012-06-01'
     awarder: Olimpíada Brasileira de Física (OBF)
+    summary: |
+      Premiação estadual das Escolas Municipais e Estaduais da Olimpíada Brasileira de Física das Escolas Públicas.
   - title: Menção Honrosa
     date: '2009-01-01'
     awarder: Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP)
