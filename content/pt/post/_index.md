@@ -1,6 +1,7 @@
 ---
 title: Blog
 view: landing
+aliases: [/blog/]
 
 # cascade:
 #   - _target:
