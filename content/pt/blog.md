@@ -3,28 +3,28 @@ title: Blog
 view: landing
 aliases: [/blog/]
 
-# cascade:
-#   - _target:
-#       kind: page
-#     params:
-#       show_breadcrumb: true
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
-# design:
-#   # Default section spacing
-#   spacing: "6rem"
+design:
+  # Default section spacing
+  spacing: "6rem"
 
-# sections:
-# - block: collection
-#   id: teaching
-#   content:
-#     title: Ensino
-#     filters:
-#       folders:
-#         - post
-#   design:
-#     view: article-grid
-#     columns: 2
-# Page sections
+sections:
+- block: collection
+  id: teaching
+  content:
+    title: Ensino
+    filters:
+      folders:
+        - post
+  design:
+    view: article-grid
+    columns: 2
+
 sections:
   - block: markdown
     content:
