@@ -23,6 +23,9 @@ main:
   - name: Blog
     url: post/
     weight: 60
+  - name: Blog
+  url: tags
+  weight: 70
   # - name: Ensino
   #   url: teaching/
   #   weight: 70
